@@ -1,0 +1,8 @@
+{
+    "default_calib_path": "data_files/calibration/no_person.dat",
+    "nonlinear": false,
+    "sto": true,
+    "rco": true,
+    "cfo": false,
+    "linear_interval": [20, 39]
+}

@@ -1,0 +1,30 @@
+{
+    "sampling_rate": 100.0,
+    "window_sizes": {
+        "time_domain": 100,
+        "frequency_domain": 256
+    },
+    "frequency_bands": {
+        "low": [0, 2],
+        "mid": [2, 20],
+        "high": [20, 50]
+    },
+    "pca": {
+        "n_components": 3,
+        "whiten": true
+    },
+    "motion_detection": {
+        "energy_threshold": 0.1,
+        "min_confidence": 0.8
+    },
+    "feature_extraction": {
+        "use_amplitude": true,
+        "use_phase": true,
+        "normalize": true
+    },
+    "visualization": {
+        "time_domain_window": 1000,
+        "freq_domain_max_freq": 50,
+        "plot_style": "seaborn"
+    }
+}

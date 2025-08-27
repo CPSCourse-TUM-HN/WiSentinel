@@ -1,0 +1,13 @@
+rules:
+  - pattern: "standing"
+    response: "There is someone standing in the room."
+  - pattern: "t-pose"
+    response: "There is someone t-posing in the room."
+  - pattern: "lying"
+    response: "There is someone lying down in the room."
+  - pattern: "crouching"
+    response: "There is someone crouching in the room."
+  - pattern: "empty"
+    response: "There is no one in the room."
+default_response: "I do not recognise this pose."
+

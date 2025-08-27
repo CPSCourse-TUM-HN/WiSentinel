@@ -1,0 +1,6 @@
+[
+  { "mac": "a8:93:4a:df:a6:c1", "alias": "WiSentinel-AP1" },
+  { "mac": "38:d5:7a:a4:94:f7", "alias": "WiSentinel-AP2" },
+  { "mac": "a8:93:4a:df:a2:93", "alias": "WiSentinel-AP3" },
+  { "mac": "a8:93:4a:df:24:e9", "alias": "WiSentinel-AP4" }
+]

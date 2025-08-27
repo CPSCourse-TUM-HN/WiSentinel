@@ -1,0 +1,3 @@
+history_length: 20
+range_variance: 0.5
+motion_variance: 0.1

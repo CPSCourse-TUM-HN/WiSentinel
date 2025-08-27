@@ -1,0 +1,9 @@
+{
+    "default_output_path": "dataset/live_csi.dat",
+    "default_listen_port": 50000,
+    "default_max_packets": null,
+    "default_timeout": null,
+    "default_receiver_host": null,
+    "visualize_data": true,
+    "max_stored_packets": 1000
+}

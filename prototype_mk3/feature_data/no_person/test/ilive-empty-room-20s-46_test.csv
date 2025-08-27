@@ -1,0 +1,2 @@
+var_rx0_tx0,var_rx0_tx1,var_rx0_tx2,var_rx1_tx0,var_rx1_tx1,var_rx1_tx2,var_rx2_tx0,var_rx2_tx1,var_rx2_tx2,tof_mean,tof_std,aoa_peak,corr_eigen_ratio,num_peaks,std_amp,median_amp,skew_amp,kurtosis_amp,label,source_file
+1.3223002700693932e+19,1.3508550831480605e+19,0.0,1.6846703438791367e+19,1.4369621943564595e+19,0.0,6.593525889096916e+18,7.816195613290004e+18,0.0,0.0,0.0,50.0,0.0,1,2672075913.4214134,11245727238.366493,1.914129643958883,2.7503210991852356,no_person,ilive-empty-room-20s-46.dat

@@ -1,0 +1,9 @@
+@startuml server_client
+Telegram_Bot -> WiSentinel_Server : CONNECT
+WiSentinel_Server -> Telegram_Bot : ACKNOWLEDGE
+Localization_Engine -> WiSentinel_Server : MOTION_FOUND
+WiSentinel_Server -> Localization_Engine : REQUEST_LOCALIZATION
+Localization_Engine -> WiSentinel_Server : LOCALIZATION_DATA
+WiSentinel_Server -> Telegram_Bot : SEND_NOTIFICATION
+Telegram_Bot -> User : NOTIFICATION
+@enduml
