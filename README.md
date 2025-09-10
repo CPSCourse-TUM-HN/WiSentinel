@@ -1,6 +1,7 @@
 # Wisentinel
 A configurable cyber-physical system that detects unauthorized presence/poses through/inside walls using WiFi signals, alerting users via Telegram or Email with anonymized silhouettes and coordinates on a floor plan—no cameras, no wearables.
 
+wisentinel/ - directory with main app
 
 # Detailed documentation
 ## Table of contents
